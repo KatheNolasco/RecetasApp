@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "208401251227",
+    "firebase_url": "https://recetario-53456.firebaseio.com",
+    "project_id": "recetario-53456",
+    "storage_bucket": "recetario-53456.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208401251227:android:3d407c28a35296a1a73f3e",
+        "android_client_info": {
+          "package_name": "com.example.recetario"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208401251227-9dv9fdiiigmq55s8f5huam439ki60su1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.recetario",
+            "certificate_hash": "b7dea4ba139b57821d0d0edfc85ab98c2d6ab63c"
+          }
+        },
+        {
+          "client_id": "208401251227-a8lglnt4jjbb4ds7udhcj3v3l6s884p2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyId9vmVJJoWyiU4tEKeOG0L7SKtAydPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208401251227-a8lglnt4jjbb4ds7udhcj3v3l6s884p2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208401251227:android:628d36199437e405a73f3e",
+        "android_client_info": {
+          "package_name": "com.example.recetariocode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208401251227-f0pcshgpakunfchko1vhtl03sbvcv5ee.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.recetariocode",
+            "certificate_hash": "b7dea4ba139b57821d0d0edfc85ab98c2d6ab63c"
+          }
+        },
+        {
+          "client_id": "208401251227-a8lglnt4jjbb4ds7udhcj3v3l6s884p2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyId9vmVJJoWyiU4tEKeOG0L7SKtAydPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208401251227-a8lglnt4jjbb4ds7udhcj3v3l6s884p2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
